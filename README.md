@@ -18,12 +18,6 @@ cat > README.md << 'EOF'
 ---
 
 ## 📂 项目结构
-pdf2md-tool/
-├── convert.py
-├── input/
-├── output/
-├── requirements.txt
-└── run.sh
 
 ---
 
