@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 📦 Shensi-AI-Tools
 
 ## 📄 PDF2MD Tool
